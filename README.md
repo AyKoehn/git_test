@@ -1,3 +1,3 @@
 # git_test
-did this wrong but
+did this wrong
 Hello Odin!
